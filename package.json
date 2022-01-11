@@ -1,0 +1,14 @@
+{
+  "name": "snapshot-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:victaphu/snapshot-migration.git",
+  "author": "Victa Kwok Wai Phu <victa.phu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "connection-string": "^4.3.5",
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1"
+  }
+}
